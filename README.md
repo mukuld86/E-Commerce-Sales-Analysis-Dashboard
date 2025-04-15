@@ -18,11 +18,7 @@ This project features a comprehensive Excel-based interactive dashboard designed
 | `Pie Chart`       | Segment-wise or category-wise sales breakdown. |
 | `Pivot Table`     | Summary analysis for quick insights. |
 | `KPI`             | Monthly aggregated values for key metrics (sales, profit, quantity, orders, etc.). |
-| `Acknowledgement` | Special thanks to my course instructor, [Instructor's Name] (UID: [Instructor's UID]), for her continuous guidance and support throughout this project.
-
-Grateful to Kaggle for providing the dataset that made this analysis possible.
-
-Also, appreciation to the data visualization and analytics communities whose insights helped shape this dashboard. |
+| `Acknowledgement` | Special thanks to my course instructor, Veerpal Kaur, for her continuous guidance and support throughout this project.
 
 ---
 
@@ -54,6 +50,7 @@ Also, appreciation to the data visualization and analytics communities whose ins
 
 ## 🙌 Acknowledgements
 
+Grateful to Kaggle for providing the dataset that made this analysis possible.
 Special thanks to all data visualization and analytics communities whose insights helped shape this project.
 
 ---
