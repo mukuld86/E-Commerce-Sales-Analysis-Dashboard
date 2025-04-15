@@ -54,7 +54,3 @@ Grateful to Kaggle for providing the dataset that made this analysis possible.
 Special thanks to all data visualization and analytics communities whose insights helped shape this project.
 
 ---
-
-## 📎 License
-
-This project is open-source and available under the [MIT License](LICENSE).
