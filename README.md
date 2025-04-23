@@ -3,6 +3,8 @@
 This project features a comprehensive Excel-based interactive dashboard designed to analyze and visualize sales data of the year 2014. It showcases key performance indicators (KPIs), sales trends, regional performance, and top-performing segments using a variety of visual tools.
 
 ---
+## Screenshot
+![Dashboard](https://github.com/mukuld86/E-Commerce-Sales-Analysis-Dashboard/raw/ebe3db589a23dfd30fefe18ab06f0c28851d4057/DashBoard.png)
 
 ## 📁 Project Structure
 
